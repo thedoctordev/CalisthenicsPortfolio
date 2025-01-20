@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Flexão de Braço",
+        "category": "Empurrar",
+        "description": "Progressão completa para dominar a flexão de braço",
+        "targetMuscles": ["peitoral", "tríceps", "ombros"],
+        "levels": [
+            {
+                "level": 1,
+                "name": "Flexão na Parede",
+                "description": "Flexão em pé apoiado na parede",
+                "reps": "15-20",
+                "sets": "3",
+                "media": {
+                    "image": "images/flexao-parede.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Mantenha o corpo reto",
+                    "Quanto mais longe os pés da parede, mais difícil"
+                ],
+                "criteria": "Conseguir 3x20 com boa forma"
+            },
+            {
+                "level": 2,
+                "name": "Flexão Inclinada",
+                "description": "Flexão com apoio em superfície elevada (mesa ou banco)",
+                "reps": "12-15",
+                "sets": "3",
+                "media": {
+                    "image": "images/flexao-inclinada.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Quanto mais baixo o apoio, mais difícil",
+                    "Mantenha os cotovelos próximos ao corpo"
+                ],
+                "criteria": "Conseguir 3x15 com boa forma"
+            },
+            {
+                "level": 3,
+                "name": "Flexão de Joelhos",
+                "description": "Flexão com joelhos apoiados no chão",
+                "reps": "10-12",
+                "sets": "3",
+                "media": {
+                    "image": "images/flexao-joelhos.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Mantenha o quadril alinhado",
+                    "Desça o peito até próximo do chão"
+                ],
+                "criteria": "Conseguir 3x12 com boa forma"
+            },
+            {
+                "level": 4,
+                "name": "Flexão Completa",
+                "description": "Flexão tradicional com apoio nas pontas dos pés",
+                "reps": "8-10",
+                "sets": "3",
+                "media": {
+                    "image": "images/flexao-completa.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Mantenha o corpo reto como uma tábua",
+                    "Respire durante o movimento"
+                ],
+                "criteria": "Conseguir 3x10 com boa forma"
+            }
+        ]
+    },
+    {
+        "name": "Barra Fixa",
+        "category": "Puxar",
+        "description": "Progressão para conseguir fazer a barra fixa",
+        "targetMuscles": ["costas", "bíceps", "antebraço"],
+        "levels": [
+            {
+                "level": 1,
+                "name": "Barra Fixa Negativa",
+                "description": "Saltar para a posição alta e descer lentamente",
+                "reps": "5-8",
+                "sets": "3",
+                "media": {
+                    "image": "images/barra-negativa.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Desça o mais devagar possível",
+                    "Foque no controle do movimento"
+                ],
+                "criteria": "Conseguir descer em 10 segundos"
+            },
+            {
+                "level": 2,
+                "name": "Barra Fixa com Elástico",
+                "description": "Usar elástico para auxiliar na subida",
+                "reps": "6-8",
+                "sets": "3",
+                "media": {
+                    "image": "images/barra-elastico.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Use elástico mais grosso no início",
+                    "Progrida para elásticos mais finos"
+                ],
+                "criteria": "Conseguir 3x8 com elástico fino"
+            },
+            {
+                "level": 3,
+                "name": "Barra Fixa Parcial",
+                "description": "Fazer a barra começando com os cotovelos dobrados",
+                "reps": "4-6",
+                "sets": "3",
+                "media": {
+                    "image": "images/barra-parcial.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Comece da posição meio dobrada",
+                    "Aumente gradualmente a amplitude"
+                ],
+                "criteria": "Conseguir 3x6 da posição meio dobrada"
+            },
+            {
+                "level": 4,
+                "name": "Barra Fixa Completa",
+                "description": "Barra fixa com amplitude completa",
+                "reps": "3-5",
+                "sets": "3",
+                "media": {
+                    "image": "images/barra-completa.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                },
+                "tips": [
+                    "Mantenha as escápulas contraídas",
+                    "Suba até o queixo passar a barra"
+                ],
+                "criteria": "Conseguir 3x5 com boa forma"
+            }
+        ]
+    }
+] 

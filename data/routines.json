@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Iniciante Full Body A",
+        "category": "Iniciante",
+        "frequency": "3x por semana",
+        "duration": "45 minutos",
+        "description": "Treino completo para iniciantes focado nos principais grupos musculares",
+        "media": {
+            "image": "images/fullbody.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "Flexão de Braço",
+                "sets": 3,
+                "reps": "8-12",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/flexao.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Australian Pull-up",
+                "sets": 3,
+                "reps": "8-12",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/australian-pullup.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Agachamento",
+                "sets": 3,
+                "reps": "12-15",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/agachamento.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Foque na técnica correta",
+            "Descanse entre 1-2 minutos entre exercícios",
+            "Faça aquecimento antes de começar"
+        ]
+    },
+    {
+        "name": "Iniciante Full Body B",
+        "category": "Iniciante",
+        "frequency": "3x por semana",
+        "duration": "45 minutos",
+        "description": "Variação do treino full body para iniciantes",
+        "media": {
+            "image": "images/fullbody-b.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "Pike Push-up",
+                "sets": 3,
+                "reps": "8-12",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/pike-pushup.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Hollow Body Hold",
+                "sets": 3,
+                "reps": "20-30 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/hollow-body.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Alterne entre treino A e B",
+            "Descanse um dia entre treinos",
+            "Progrida gradualmente"
+        ]
+    },
+    {
+        "name": "Intermediário Push/Pull A",
+        "category": "Intermediário", 
+        "frequency": "4x por semana",
+        "duration": "60 minutos",
+        "description": "Treino focado em exercícios de empurrar e puxar para nível intermediário",
+        "media": {
+            "image": "images/push-pull-a.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "Muscle Up",
+                "sets": 4,
+                "reps": "3-5",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/muscle-up.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Pseudo Planche Push-up",
+                "sets": 4,
+                "reps": "8-10",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/pseudo-planche.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Ring Support Hold",
+                "sets": 3,
+                "reps": "45-60 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/ring-support.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Mantenha a técnica impecável",
+            "Aumente a carga progressivamente",
+            "Faça aquecimento específico para ombros"
+        ]
+    },
+    {
+        "name": "Intermediário Push/Pull B",
+        "category": "Intermediário",
+        "frequency": "4x por semana", 
+        "duration": "60 minutos",
+        "description": "Segunda rotina de empurrar e puxar para nível intermediário",
+        "media": {
+            "image": "images/push-pull-b.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "Typewriter Pull-up",
+                "sets": 4,
+                "reps": "6-8 por lado",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/typewriter.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Wall Walk",
+                "sets": 3,
+                "reps": "5-8",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/wall-walk.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "V-Sit",
+                "sets": 4,
+                "reps": "20-30 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/v-sit.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Alterne entre treino A e B",
+            "Descanse adequadamente entre séries",
+            "Foque na qualidade do movimento"
+        ]
+    },
+    {
+        "name": "Avançado Push/Pull A",
+        "category": "Avançado",
+        "frequency": "5x por semana",
+        "duration": "75 minutos", 
+        "description": "Primeira rotina de empurrar e puxar para nível avançado",
+        "media": {
+            "image": "images/advanced-push-pull-a.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "One Arm Pull-up",
+                "sets": 4,
+                "reps": "3-5 por braço",
+                "rest": "120 segundos",
+                "media": {
+                    "image": "images/oap.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Pseudo Planche Push-up",
+                "sets": 4,
+                "reps": "8-12",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/pseudo-planche.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Muscle Up",
+                "sets": 4,
+                "reps": "5-8",
+                "rest": "120 segundos",
+                "media": {
+                    "image": "images/muscle-up.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Hollow Body Hold",
+                "sets": 3,
+                "reps": "45-60 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/hollow-body.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Realize aquecimento completo",
+            "Mantenha técnica impecável",
+            "Progrida gradualmente nas repetições"
+        ]
+    },
+    {
+        "name": "Avançado Push/Pull B",
+        "category": "Avançado",
+        "frequency": "5x por semana",
+        "duration": "75 minutos",
+        "description": "Segunda rotina de empurrar e puxar para nível avançado",
+        "media": {
+            "image": "images/advanced-push-pull-b.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "exercises": [
+            {
+                "name": "Skin The Cat",
+                "sets": 3,
+                "reps": "6-8",
+                "rest": "90 segundos",
+                "media": {
+                    "image": "images/skin-the-cat.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Ring Support Hold",
+                "sets": 4,
+                "reps": "30-45 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/ring-support.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "Crow Pose",
+                "sets": 4,
+                "reps": "30-45 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/crow-pose.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            },
+            {
+                "name": "V-Sit",
+                "sets": 4,
+                "reps": "30-45 segundos",
+                "rest": "60 segundos",
+                "media": {
+                    "image": "images/v-sit.jpg",
+                    "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+                }
+            }
+        ],
+        "tips": [
+            "Alterne entre treino A e B",
+            "Priorize recuperação adequada",
+            "Mantenha dieta balanceada"
+        ]
+    }
+] 

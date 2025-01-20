@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Agachamento",
+        "category": "Pernas",
+        "description": "Exercício fundamental para membros inferiores",
+        "muscles": ["quadríceps", "glúteos", "posteriores"],
+        "media": {
+            "image": "images/agachamento.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pés na largura dos ombros",
+            "Desça mantendo o peito erguido",
+            "Mantenha os joelhos alinhados com os pés"
+        ]
+    },
+    {
+        "name": "Supino",
+        "category": "Peito",
+        "description": "Exercício clássico para peitoral",
+        "muscles": ["peitoral", "tríceps", "ombros"],
+        "media": {
+            "image": "images/supino.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Deite no banco com pés apoiados",
+            "Segure a barra na largura dos ombros",
+            "Desça controladamente até o peito"
+        ]
+    },
+    {
+        "name": "Flexão de Braço",
+        "category": "Peito",
+        "description": "Exercício básico para desenvolvimento do peitoral e tríceps",
+        "muscles": ["peitoral", "tríceps", "ombros"],
+        "media": {
+            "image": "images/flexao.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Apoie as mãos na largura dos ombros",
+            "Mantenha o corpo reto",
+            "Desça o peito próximo ao chão"
+        ]
+    },
+    {
+        "name": "Barra Fixa",
+        "category": "Costas",
+        "description": "Exercício completo para costas e bíceps",
+        "muscles": ["latíssimo", "bíceps", "trapézio"],
+        "media": {
+            "image": "images/barra-fixa.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada na largura dos ombros",
+            "Puxe o peito em direção à barra",
+            "Desça controladamente"
+        ]
+    },
+    {
+        "name": "Dips (Paralelas)",
+        "category": "Peito",
+        "description": "Exercício avançado para peitoral e tríceps",
+        "muscles": ["peitoral", "tríceps", "ombros"],
+        "media": {
+            "image": "images/dips.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Apoie-se nas barras paralelas",
+            "Mantenha leve inclinação do tronco",
+            "Desça até os cotovelos formarem 90 graus"
+        ]
+    },
+    {
+        "name": "Muscle Up",
+        "category": "Costas",
+        "description": "Movimento avançado combinando barra fixa e dips",
+        "muscles": ["latíssimo", "peitoral", "tríceps"],
+        "media": {
+            "image": "images/muscle-up.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Inicie com barra fixa explosiva",
+            "Rotação dos punhos no topo",
+            "Finalize com extensão dos braços"
+        ]
+    },
+    {
+        "name": "Pistol Squat",
+        "category": "Pernas",
+        "description": "Agachamento unilateral avançado",
+        "muscles": ["quadríceps", "glúteos", "core"],
+        "media": {
+            "image": "images/pistol.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Equilibre em uma perna",
+            "Mantenha a outra perna estendida",
+            "Desça controladamente"
+        ]
+    },
+    {
+        "name": "Handstand Push-up",
+        "category": "Ombros",
+        "description": "Flexão de braço invertida em parada de mãos",
+        "muscles": ["ombros", "tríceps", "trapézio"],
+        "media": {
+            "image": "images/hspu.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Faça parada de mãos na parede",
+            "Flexione os braços",
+            "Empurre de volta à posição inicial"
+        ]
+    },
+    {
+        "name": "Front Lever",
+        "category": "Costas",
+        "description": "Movimento estático avançado de força",
+        "muscles": ["latíssimo", "core", "peitoral"],
+        "media": {
+            "image": "images/front-lever.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Segure na barra com pegada pronada",
+            "Eleve o corpo horizontalmente",
+            "Mantenha pernas estendidas"
+        ]
+    },
+    {
+        "name": "L-Sit",
+        "category": "Core",
+        "description": "Exercício estático para força do core",
+        "muscles": ["abdômen", "quadril", "braços"],
+        "media": {
+            "image": "images/l-sit.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Apoie as mãos no solo",
+            "Eleve as pernas a 90 graus",
+            "Mantenha quadril acima dos braços"
+        ]
+    },
+    {
+        "name": "Dragon Flag",
+        "category": "Core",
+        "description": "Exercício avançado de controle corporal",
+        "muscles": ["abdômen", "lombar", "peitoral"],
+        "media": {
+            "image": "images/dragon-flag.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Deite em um banco",
+            "Segure atrás da cabeça",
+            "Eleve o corpo mantendo-o reto"
+        ]
+    },
+    {
+        "name": "Archer Push-up",
+        "category": "Peito",
+        "description": "Variação unilateral da flexão",
+        "muscles": ["peitoral", "tríceps", "ombros"],
+        "media": {
+            "image": "images/archer-pushup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Posição de flexão mais larga",
+            "Flexione para um lado",
+            "Mantenha outro braço estendido"
+        ]
+    },
+    {
+        "name": "Planche",
+        "category": "Ombros",
+        "description": "Posição avançada de equilíbrio sobre as mãos",
+        "muscles": ["ombros", "peitoral", "core"],
+        "media": {
+            "image": "images/planche.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Mãos no solo com dedos para frente",
+            "Protração das escápulas",
+            "Eleve o corpo paralelo ao solo"
+        ]
+    },
+    {
+        "name": "Back Lever",
+        "category": "Costas",
+        "description": "Posição invertida de força na barra",
+        "muscles": ["costas", "core", "bíceps"],
+        "media": {
+            "image": "images/back-lever.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada supinada na barra",
+            "Gire o corpo para trás",
+            "Alinhe o corpo horizontalmente"
+        ]
+    },
+    {
+        "name": "Nordic Curl",
+        "category": "Pernas",
+        "description": "Exercício avançado para posteriores",
+        "muscles": ["posteriores", "glúteos", "lombar"],
+        "media": {
+            "image": "images/nordic-curl.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Prenda os pés sob algo fixo",
+            "Mantenha o corpo reto",
+            "Desça controladamente"
+        ]
+    },
+    {
+        "name": "Ring Muscle Up",
+        "category": "Costas",
+        "description": "Muscle up executado em argolas",
+        "muscles": ["costas", "peitoral", "ombros"],
+        "media": {
+            "image": "images/ring-muscle-up.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Balanço controlado inicial",
+            "Puxada explosiva",
+            "Transição para apoio"
+        ]
+    },
+    {
+        "name": "Human Flag",
+        "category": "Core",
+        "description": "Posição lateral do corpo em bandeira",
+        "muscles": ["oblíquos", "ombros", "latíssimo"],
+        "media": {
+            "image": "images/human-flag.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada mista no poste",
+            "Eleve as pernas",
+            "Alinhe o corpo horizontalmente"
+        ]
+    },
+    {
+        "name": "Hefesto",
+        "category": "Costas",
+        "description": "Subida invertida na barra",
+        "muscles": ["costas", "bíceps", "peitoral"],
+        "media": {
+            "image": "images/hefesto.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada supinada na barra",
+            "Corpo invertido",
+            "Puxe o quadril até a barra"
+        ]
+    },
+    {
+        "name": "Victorian Cross",
+        "category": "Ombros",
+        "description": "Posição avançada nas argolas",
+        "muscles": ["ombros", "peitoral", "tríceps"],
+        "media": {
+            "image": "images/victorian.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Braços estendidos nas argolas",
+            "Corpo horizontal à frente",
+            "Mantenha posição"
+        ]
+    },
+    {
+        "name": "One Arm Pull-up",
+        "category": "Costas",
+        "description": "Barra fixa com um braço",
+        "muscles": ["latíssimo", "bíceps", "core"],
+        "media": {
+            "image": "images/oap.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada firme com uma mão",
+            "Core tensionado",
+            "Puxe até o queixo passar a barra"
+        ]
+    },
+    {
+        "name": "Australian Pull-up",
+        "category": "Costas",
+        "description": "Barra fixa horizontal, ótimo para iniciantes",
+        "muscles": ["costas", "bíceps", "core"],
+        "media": {
+            "image": "images/australian-pullup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Barra na altura do quadril",
+            "Corpo reto e calcanhar apoiado",
+            "Puxe o peito até a barra"
+        ]
+    },
+    {
+        "name": "Pike Push-up",
+        "category": "Ombros",
+        "description": "Progressão para parada de mãos",
+        "muscles": ["ombros", "tríceps", "peitoral"],
+        "media": {
+            "image": "images/pike-pushup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Forme um V invertido com o corpo",
+            "Ombros acima das mãos",
+            "Flexione os braços"
+        ]
+    },
+    {
+        "name": "Hollow Body Hold",
+        "category": "Core",
+        "description": "Exercício fundamental para controle corporal",
+        "muscles": ["abdômen", "quadril", "lombar"],
+        "media": {
+            "image": "images/hollow-body.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Deite de costas",
+            "Eleve pernas e ombros do solo",
+            "Mantenha lombar pressionada"
+        ]
+    },
+    {
+        "name": "Skin The Cat",
+        "category": "Mobilidade",
+        "description": "Exercício de mobilidade nas argolas",
+        "muscles": ["ombros", "core", "costas"],
+        "media": {
+            "image": "images/skin-the-cat.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pendure-se nas argolas",
+            "Role para trás lentamente",
+            "Retorne à posição inicial"
+        ]
+    },
+    {
+        "name": "Crow Pose",
+        "category": "Equilíbrio",
+        "description": "Posição de equilíbrio sobre as mãos",
+        "muscles": ["ombros", "core", "punhos"],
+        "media": {
+            "image": "images/crow-pose.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Mãos no solo, dedos abertos",
+            "Joelhos apoiados nos braços",
+            "Transfira o peso para frente"
+        ]
+    },
+    {
+        "name": "Wall Walk",
+        "category": "Ombros",
+        "description": "Progressão para parada de mãos",
+        "muscles": ["ombros", "core", "peitoral"],
+        "media": {
+            "image": "images/wall-walk.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Comece em flexão próximo à parede",
+            "Caminhe com os pés pela parede",
+            "Aproxime as mãos da parede"
+        ]
+    },
+    {
+        "name": "Ring Support Hold",
+        "category": "Ombros",
+        "description": "Exercício básico de força nas argolas",
+        "muscles": ["ombros", "tríceps", "core"],
+        "media": {
+            "image": "images/ring-support.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Braços estendidos",
+            "Ombros deprimidos",
+            "Corpo alinhado e estável"
+        ]
+    },
+    {
+        "name": "Scapular Pull-up",
+        "category": "Costas",
+        "description": "Exercício de controle escapular",
+        "muscles": ["trapézio", "romboides", "latíssimo"],
+        "media": {
+            "image": "images/scapular-pullup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pendure-se na barra",
+            "Eleve o corpo apenas com as escápulas",
+            "Mantenha braços retos"
+        ]
+    },
+    {
+        "name": "Clap Push-up",
+        "category": "Peito",
+        "description": "Flexão explosiva com palma",
+        "muscles": ["peitoral", "tríceps", "ombros"],
+        "media": {
+            "image": "images/clap-pushup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Posição de flexão normal",
+            "Empurre explosivamente",
+            "Bata palma e recepcione"
+        ]
+    },
+    {
+        "name": "Box Jump",
+        "category": "Pernas",
+        "description": "Salto pliométrico em caixa",
+        "muscles": ["quadríceps", "glúteos", "panturrilhas"],
+        "media": {
+            "image": "images/box-jump.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Posição semi-agachada",
+            "Salte explosivamente",
+            "Aterrisse suave na caixa"
+        ]
+    },
+    {
+        "name": "Explosive Pull-up",
+        "category": "Costas",
+        "description": "Barra fixa explosiva",
+        "muscles": ["latíssimo", "bíceps", "core"],
+        "media": {
+            "image": "images/explosive-pullup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Inicie pendurado",
+            "Puxe explosivamente",
+            "Solte o peito da barra"
+        ]
+    },
+    {
+        "name": "Superman Hold",
+        "category": "Core",
+        "description": "Exercício isométrico para lombar",
+        "muscles": ["lombar", "glúteos", "posteriores"],
+        "media": {
+            "image": "images/superman.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Deite de bruços",
+            "Eleve braços e pernas",
+            "Mantenha posição"
+        ]
+    },
+    {
+        "name": "Archer Pull-up",
+        "category": "Costas",
+        "description": "Barra fixa com movimento lateral",
+        "muscles": ["latíssimo", "bíceps", "ombros"],
+        "media": {
+            "image": "images/archer-pullup.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada mais larga que ombros",
+            "Puxe para um lado",
+            "Alterne os lados"
+        ]
+    },
+    {
+        "name": "Pseudo Planche Push-up",
+        "category": "Ombros",
+        "description": "Progressão para planche",
+        "muscles": ["ombros", "peitoral", "tríceps"],
+        "media": {
+            "image": "images/pseudo-planche.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Mãos rotadas para fora",
+            "Ombros à frente das mãos",
+            "Flexione mantendo posição"
+        ]
+    },
+    {
+        "name": "V-Sit",
+        "category": "Core",
+        "description": "Progressão do L-sit",
+        "muscles": ["abdômen", "flexores do quadril", "core"],
+        "media": {
+            "image": "images/v-sit.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Apoie as mãos no solo",
+            "Eleve pernas acima de 90 graus",
+            "Mantenha corpo em V"
+        ]
+    },
+    {
+        "name": "Typewriter Pull-up",
+        "category": "Costas",
+        "description": "Variação avançada da barra fixa",
+        "muscles": ["latíssimo", "bíceps", "ombros"],
+        "media": {
+            "image": "images/typewriter.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "instructions": [
+            "Pegada larga na barra",
+            "Puxe o queixo acima",
+            "Deslize lateralmente"
+        ]
+    }
+]

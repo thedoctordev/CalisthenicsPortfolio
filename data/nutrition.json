@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Banana",
+        "category": "Frutas",
+        "portion": "1 unidade média (100g)",
+        "media": {
+            "image": "images/banana.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "nutrients": {
+            "calorias": 89,
+            "proteinas": 1.1,
+            "carboidratos": 22.8,
+            "gorduras": 0.3,
+            "fibras": 2.6
+        }
+    },
+    {
+        "name": "Peito de Frango",
+        "category": "Proteínas",
+        "portion": "100g",
+        "media": {
+            "image": "images/frango.jpg",
+            "video": "https://www.youtube.com/embed/GOj4TMPVuZg"
+        },
+        "nutrients": {
+            "calorias": 165,
+            "proteinas": 31,
+            "carboidratos": 0,
+            "gorduras": 3.6,
+            "fibras": 0
+        }
+    }
+]

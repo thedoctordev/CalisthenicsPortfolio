@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Fitness</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <button id="menuBtn" class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </button>
+            <h1><i class="fas fa-dumbbell"></i> CalisthenicsPortfolio</h1>
+        </div>
+
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Buscar...">
+            <button id="searchBtn">
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+
+        <nav id="mainNav" class="main-nav">
+            <div class="nav-item">
+                <button class="nav-btn" data-section="exercises">
+                    <i class="fas fa-running"></i>
+                    Exercícios
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="submenu">
+                    <a href="#" data-category="todos">Todos</a>
+                    <a href="#" data-category="pernas">Pernas</a>
+                    <a href="#" data-category="peito">Peito</a>
+                    <a href="#" data-category="costas">Costas</a>
+                    <a href="#" data-category="bracos">Braços</a>
+                </div>
+            </div>
+
+            <div class="nav-item">
+                <button class="nav-btn" data-section="routines">
+                    <i class="fas fa-calendar-alt"></i>
+                    Rotinas
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="submenu">
+                    <a href="#" data-category="todos">Todas</a>
+                    <a href="#" data-category="iniciante">Iniciante</a>
+                    <a href="#" data-category="intermediario">Intermediário</a>
+                    <a href="#" data-category="avancado">Avançado</a>
+                </div>
+            </div>
+
+            <div class="nav-item">
+                <button class="nav-btn" data-section="nutrition">
+                    <i class="fas fa-apple-alt"></i>
+                    Nutrição
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="submenu">
+                    <a href="#" data-category="todos">Todos</a>
+                    <a href="#" data-category="frutas">Frutas</a>
+                    <a href="#" data-category="proteinas">Proteínas</a>
+                    <a href="#" data-category="carboidratos">Carboidratos</a>
+                    <a href="#" data-category="gorduras">Gorduras</a>
+                </div>
+            </div>
+
+            <div class="nav-item">
+                <button class="nav-btn" data-section="progressions">
+                    <i class="fas fa-stairs"></i>
+                    Progressões
+                    <i class="fas fa-chevron-down"></i>
+                </button>
+                <div class="submenu">
+                    <a href="#" data-category="todos">Todas</a>
+                    <a href="#" data-category="empurrar">Empurrar</a>
+                    <a href="#" data-category="puxar">Puxar</a>
+                    <a href="#" data-category="pernas">Pernas</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="exercisesSection" class="content-section">
+            <div id="exercisesList" class="cards-grid"></div>
+        </section>
+
+        <section id="progressionsSection" class="content-section">
+            <div id="progressionsList" class="cards-grid"></div>
+        </section>
+
+        <section id="routinesSection" class="content-section">
+            <div id="routinesList" class="cards-grid"></div>
+        </section>
+
+        <section id="nutritionSection" class="content-section">
+            <div id="nutritionList" class="cards-grid"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Biblioteca Fitness</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
